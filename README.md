@@ -43,6 +43,7 @@
 #### Tags < >
 - Allow you to set up structure of the page.
 - Tell the browser how to format content.
+- Important tags to start you off: h1-h6, p, ul/li, a, img. 
 
 `<h1>Hello World!</h1>`
 
@@ -52,11 +53,11 @@
 <!DOCTYPE html>
 <html>
 	<head>
-	   <meta charset="UTF-8">
-	   <title>My First Webpage</title>
+			<meta charset="UTF-8">
+			<title>My First Webpage</title>
 	</head>
 	<body>
-		<h1>Hello World!</h1>
+			<h1>Hello World!</h1>
 	</body>
 </html>
 
@@ -119,9 +120,10 @@ HTML:
 
 ```
 <div class=“paragraph”>
-     Here are my favorite hobbies:
-     skateboarding, scuba diving, and
-     riding motorcycles.
+     Here are my favorite hobbies: hiking, scuba diving, and riding motorcycles.
+</div>
+<div class=“paragraph”>
+     My favorite films are: Life is Beautiful, Life of Pi, and Lord of the Rings.
 </div>
 
 ```
@@ -133,7 +135,7 @@ CSS: a period designates a class
 }
 
 ```
-
+### JavaScript:
 
 ## Summary
 - HTML, CSS, and JS work together.
