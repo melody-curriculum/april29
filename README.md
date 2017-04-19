@@ -1,4 +1,4 @@
-# ChichTech- April 29, 2017
+# ChickTech- April 29, 2017
 
 ## Let's get to know one another:
 - What's your name?
@@ -43,7 +43,7 @@
 #### Tags < >
 - Allow you to set up structure of the page.
 - Tell the browser how to format content.
-- Important tags to start you off: h1-h6, p, ul/li, a, img. 
+- Important tags to start you off: h1-h6, p, ul/li, a, img.
 
 `<h1>Hello World!</h1>`
 
