@@ -12,9 +12,6 @@
 - This may be new for you, but we fully believe you can learn it.
 - Question the process- don't just take our word for it, ask "but why?" as many times as you want.
 
-## Installation
-- Install [Sublime Text](http://www.sublimetext.com/)
-	- Sublime Text is a text-editor for code.  
 
 ## What is front-end web development?
 - Everything your eyes can see on the page.
