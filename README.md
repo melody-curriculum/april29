@@ -40,7 +40,7 @@
 #### Tags < >
 - Allow you to set up structure of the page.
 - Tell the browser how to format content.
-- Important tags to start you off: h1-h6, p, ul/li, a, img.
+- Important block elements to start you off: h1-h6, p, ul/li, hr.
 
 `<h1>Hello World!</h1>`
 
@@ -73,6 +73,8 @@ h1 {
 }
 
 ```
+- Series of key value pairs
+- Important CSS attributes to get you started: color, background-color, font-size, font-family, text-align, height, width.
 ### What about different ways to organize content?
 
 #### divs:
@@ -80,12 +82,14 @@ h1 {
 - They are equivalent to empty rectangles.
 - They are used to format block elements that can be styled via CSS.
 
-`<div> </div `
+	`<div> </div `
 
 #### spans:
 - They are inline elements that are normally displayed without line breaks.
 
-`<span> </span> `
+	`<span> </span> `
+
+- Other important inline elements to start you off: img, a.
 
 ### Id's versus classes
 #### Id's:
@@ -117,7 +121,7 @@ HTML:
 
 ```
 <div class=“paragraph”>
-     Here are my favorite hobbies: hiking, scuba diving, and riding motorcycles.
+     Here are my favorite hobbies: reading, hiking, and scuba diving.
 </div>
 <div class=“paragraph”>
      My favorite films are: Life is Beautiful, Life of Pi, and Lord of the Rings.
