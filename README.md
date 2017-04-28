@@ -22,7 +22,7 @@
 	- Command + tab
 	- Command + S
 	- Command + R
-- **Exercise**: About Me 
+- **Exercise**: About Me
 
 
 ## What is front-end web development?
