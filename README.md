@@ -18,7 +18,7 @@
 - Atom
 - Google Chrome
 - Shortcuts:
-- Copy/Cut/Paste
+	- Copy/Cut/Paste
 	- Command + tab
 	- Command + S
 	- Command + R
@@ -86,10 +86,20 @@ Here are the steps to get started:
 </html>
 
 ```
+- **Exercise**: Chrome inspector tool
+	- right click > Inspect
+	- the elements tab
+
+
+- Nesting: what does it mean to nest tags? What is DOM and how is it a tree?
+
+	![Image of DOM Tree](assets/dom_tree.png)
+
 ### CSS:
+
 - In order to run external CSS you need to link it to the HTML. This goes in the head tag:
 
-`<link rel=“stylesheet” href=“style.css” >`
+	`<link rel=“stylesheet” href=“style.css” >`
 
 #### Basic layout for a CSS file
 
@@ -104,8 +114,8 @@ h1 {
 - Important CSS attributes to get you started: color, background-color, font-size, font-family, text-align, height, width.
 
 
-### Id's versus classes
-#### Id's:
+### id versus class
+#### id:
 - Are selectors.
 - They are used if you want a single, unique element.
 
@@ -126,7 +136,7 @@ CSS: hash/pound sign designate an id
 ```
 
 
-#### Classes:
+#### class:
 - Are selectors.
 - Select an element with a specific class attribute.
 
