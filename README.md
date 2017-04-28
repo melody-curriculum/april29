@@ -47,6 +47,15 @@
 - Helps with page interactions such as animations.
 - Helps with dynamic loading of content.
 
+## Setup Instructions
+To get started, we'll need to download a copy of the project we'll be working on together. Please download today's project code and open it in Atom.
+
+Here are the steps to get started:
+* download the [project code](https://github.com/melody-curriculum/april29/archive/master.zip)
+* unzip it
+* open the project in "Atom" by dragging the folder onto the green "Atom" icon in your dock
+* finally, open the file named `index.html` in your Chrome Browser.
+
 ## Let's Dive Deeper
 ### HTML:
 #### Tags < >
