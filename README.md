@@ -22,8 +22,16 @@
 	- Command + tab
 	- Command + S
 	- Command + R
-- **Exercise**: About Me
+- **Exercise**: About Me (can you fill in the page to display your your name and a greeting message?)
 
+## Setup Instructions
+To get started, we'll need to download a copy of the project we'll be working on together. Please download today's project code and open it in Atom.
+
+Here are the steps to get started:
+* download the [project code](https://github.com/melody-curriculum/april29/archive/master.zip)
+* unzip it
+* open the project in "Atom" by dragging the folder onto the green "Atom" icon in your dock
+* finally, open the file named `index.html` in your Chrome Browser.
 
 ## What is front-end web development?
 - Everything your eyes can see on the page.
@@ -47,23 +55,21 @@
 - Helps with page interactions such as animations.
 - Helps with dynamic loading of content.
 
-## Setup Instructions
-To get started, we'll need to download a copy of the project we'll be working on together. Please download today's project code and open it in Atom.
-
-Here are the steps to get started:
-* download the [project code](https://github.com/melody-curriculum/april29/archive/master.zip)
-* unzip it
-* open the project in "Atom" by dragging the folder onto the green "Atom" icon in your dock
-* finally, open the file named `index.html` in your Chrome Browser.
 
 ## Let's Dive Deeper
 ### HTML:
 #### Tags < >
+- What is the difference between text and a tag?
 - Allow you to set up structure of the page.
 - Tell the browser how to format content.
+- What is the difference between a block and inline element?
 - Important block elements to start you off: h1-h6, p, ul/li, hr.
 
-`<h1>Hello World!</h1>`
+	`<h1>Hello World!</h1>`
+- Important inline elements to start you off: span, img, a.
+
+	`<span> </span> `
+
 
 #### Basic layout for an HTML file
 
@@ -96,21 +102,7 @@ h1 {
 ```
 - Series of key value pairs
 - Important CSS attributes to get you started: color, background-color, font-size, font-family, text-align, height, width.
-### What about different ways to organize content?
 
-#### divs:
-- Define a division.
-- They are equivalent to empty rectangles.
-- They are used to format block elements that can be styled via CSS.
-
-	`<div> </div `
-
-#### spans:
-- They are inline elements that are normally displayed without line breaks.
-
-	`<span> </span> `
-
-- Other important inline elements to start you off: img, a.
 
 ### Id's versus classes
 #### Id's:
