@@ -12,6 +12,18 @@
 - This may be new for you, but we fully believe you can learn it.
 - Question the process- don't just take our word for it, ask "but why?" as many times as you want.
 
+## Introduction to Tooling
+- GitHub
+- File System
+- Atom
+- Google Chrome
+- Shortcuts:
+- Copy/Cut/Paste
+	- Command + tab
+	- Command + S
+	- Command + R
+- **Exercise**: About Me 
+
 
 ## What is front-end web development?
 - Everything your eyes can see on the page.
@@ -137,6 +149,8 @@ CSS: a period designates a class
 
 ```
 ### JavaScript:
+- Can someone remind us the purpose of this language?
+-
 
 ## Summary
 - HTML, CSS, and JS work together.
