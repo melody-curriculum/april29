@@ -54,8 +54,7 @@ Here are the steps to get started:
 
 ## Let's Dive Deeper
 ### HTML:
-#### Tags
-- What is the difference between text and a tag?
+#### Tag
 - Allow you to set up structure of the page.
 - Tell the browser how to format content.
 - What is the difference between a block and inline element?
