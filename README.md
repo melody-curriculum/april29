@@ -73,13 +73,13 @@ Here are the steps to get started:
 ```
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta charset="UTF-8">
-		<title>My First Webpage</title>
-	</head>
-	<body>
-		<h1>Hello World!</h1>
-	</body>
+<head>
+	<meta charset="UTF-8">
+	<title>My First Webpage</title>
+</head>
+<body>
+	<h1>Hello World!</h1>
+</body>
 </html>
 ```
 
@@ -122,7 +122,7 @@ Here are the steps to get started:
 HTML:
 
 ```
-	<h1 id=“header”>Welcome to my website</h1>
+<h1 id=“header”>Welcome to my website</h1>
 
 ```
 CSS: hash/pound sign designate an id
