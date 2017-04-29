@@ -72,20 +72,19 @@ Here are the steps to get started:
 
 
 #### Basic layout for an HTML file
-
-	```
+```
 	<!DOCTYPE html>
 	<html>
 		<head>
-				<meta charset="UTF-8">
-				<title>My First Webpage</title>
+			<meta charset="UTF-8">
+			<title>My First Webpage</title>
 		</head>
 		<body>
-				<h1>Hello World!</h1>
+			<h1>Hello World!</h1>
 		</body>
 	</html>
+```
 
-	```
 - **Exercise**: Chrome inspector tool
 	- right click > Inspect
 	- the elements tab
@@ -104,7 +103,6 @@ Here are the steps to get started:
 	`<link rel=“stylesheet” href=“style.css” >`
 
 #### Basic layout for a CSS file
-
 - CSS rules
 - How do you select an element to style it?
 
@@ -127,9 +125,8 @@ Here are the steps to get started:
 HTML:
 
 ```
-<div id=“header”>
-	<h1>Welcome to my website</h1>
-</div>
+	<h1 id=“header”>Welcome to my website</h1>
+
 ```
 CSS: hash/pound sign designate an id
 
@@ -148,12 +145,12 @@ CSS: hash/pound sign designate an id
 HTML:
 
 ```
-<div class=“paragraph”>
+<p class=“paragraph”>
      Here are my favorite hobbies: reading, hiking, and scuba diving.
-</div>
-<div class=“paragraph”>
+</p>
+<p class=“paragraph”>
      My favorite films are: Life is Beautiful, Life of Pi, and Lord of the Rings.
-</div>
+</p>
 
 ```
 CSS: a period designates a class
