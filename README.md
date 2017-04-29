@@ -73,19 +73,19 @@ Here are the steps to get started:
 
 #### Basic layout for an HTML file
 
-```
-<!DOCTYPE html>
-<html>
-	<head>
-			<meta charset="UTF-8">
-			<title>My First Webpage</title>
-	</head>
-	<body>
-			<h1>Hello World!</h1>
-	</body>
-</html>
+	```
+	<!DOCTYPE html>
+	<html>
+		<head>
+				<meta charset="UTF-8">
+				<title>My First Webpage</title>
+		</head>
+		<body>
+				<h1>Hello World!</h1>
+		</body>
+	</html>
 
-```
+	```
 - **Exercise**: Chrome inspector tool
 	- right click > Inspect
 	- the elements tab
@@ -106,18 +106,18 @@ Here are the steps to get started:
 #### Basic layout for a CSS file
 
 - CSS rules
-- Select 
+- How do you select an element to style it?
 
-```
-h1 {
-	color: #FF9966;
-	text-align: center;
-}
+	```
+	h1 {
+		color: #FF9966;
+		text-align: center;
+	}
 
-```
-- Series of key value pairs
+	```
+- Series of key value pairs.
 - Important CSS attributes to get you started: color, background-color, font-size, font-family, text-align, height, width.
-
+- **Exercise**:  can you customize the background color, the font, and the font color?
 
 ### id versus class
 #### id:
@@ -167,6 +167,23 @@ CSS: a period designates a class
 ### JavaScript:
 - Can someone remind us the purpose of this language?
 -
+
+### Lab:
+- What is an emoji?
+- an image?
+- a textual character?
+- a font?
+- Every character is encoded as a number
+- ascii vs. utf-8
+- The Chrome javascript Console
+- alert('hi') // single quotes!!!
+- Inline Events
+- the keyword "this" as "me" or "my"
+- onchange="alert(this.value)"
+- onchange="search(this.value)"
+- selecting elements by tagname
+- adding classes to html elements / filtering by class name
+- looping using for..of
 
 ## Summary
 - HTML, CSS, and JS work together.
