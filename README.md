@@ -166,18 +166,21 @@ CSS: a period designates a class
 ```
 ### JavaScript:
 - Can someone remind us the purpose of this language?
--
+
+	![What can JS do?](assets/js.png)
+- The Chrome Javascript Console: how can we use this and why?
+- **Exercise**: alert('hi');
+
 
 ### Lab:
-- What is an emoji?
-- an image?
-- a textual character?
-- a font?
-- Every character is encoded as a number
+- What is:
+	- an emoji?
+	- an image?
+	- a textual character?
+	- a font?
+- Every character is encoded as a number- why?
 - ascii vs. utf-8
-- The Chrome javascript Console
-- alert('hi') // single quotes!!!
-- Inline Events
+- inline events
 - the keyword "this" as "me" or "my"
 - onchange="alert(this.value)"
 - onchange="search(this.value)"
