@@ -160,7 +160,6 @@ CSS: a period designates a class
 ```
 ### JavaScript:
 - Can someone remind us the purpose of this language?
-
 	![What can JS do?](assets/js.png)
 - The Chrome Javascript Console: how can we use this and why?
 - **Exercise**: alert('hi');
