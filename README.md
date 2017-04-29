@@ -168,7 +168,6 @@ CSS: a period designates a class
 - A JavaScript _function_ is a block of code designed to perform a particular task.
 - **Exercise**: with a partner take a look at this [Codepen](https://codepen.io/nevan/pen/shtLA) and try to read through the code as best as you can. Explain what you think is happening to one another(don't worry about syntax right now). Now try and debug together ("Slow" should turn light yellow, "Go" should turn light green).
 
-
 ### Lab:
 - What is:
 	- an emoji?
