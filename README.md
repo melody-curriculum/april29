@@ -64,25 +64,23 @@ Here are the steps to get started:
 - Tell the browser how to format content.
 - What is the difference between a block and inline element?
 - Important block elements to start you off: h1-h6, p, ul/li, hr.
-
-	`<h1>Hello World!</h1>`
+		`<h1>Hello World!</h1>`
 - Important inline elements to start you off: span, img, a.
-
-	`<span> </span> `
+		`<span> </span> `
 
 
 #### Basic layout for an HTML file
 ```
-	<!DOCTYPE html>
-	<html>
-		<head>
-			<meta charset="UTF-8">
-			<title>My First Webpage</title>
-		</head>
-		<body>
-			<h1>Hello World!</h1>
-		</body>
-	</html>
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>My First Webpage</title>
+	</head>
+	<body>
+		<h1>Hello World!</h1>
+	</body>
+</html>
 ```
 
 - **Exercise**: Chrome inspector tool
@@ -105,7 +103,6 @@ Here are the steps to get started:
 #### Basic layout for a CSS file
 - CSS rules
 - How do you select an element to style it?
-
 	```
 	h1 {
 		color: #FF9966;
