@@ -22,7 +22,7 @@
 	- Command + tab
 	- Command + S
 	- Command + R
-- **Exercise**: About Me (can you fill in the page to display your your name and a greeting message?)
+- **Exercise**: on the About Me page can you fill in the page to display your your name and a greeting message?
 
 ## Setup Instructions
 To get started, we'll need to download a copy of the project we'll be working on together. Please download today's project code and open it in Atom.
@@ -95,6 +95,8 @@ Here are the steps to get started:
 
 	![Image of DOM Tree](assets/dom_tree.png)
 
+- **Exercise**: can you add link(s) to your social media accounts, and customize the image?
+
 ### CSS:
 
 - In order to run external CSS you need to link it to the HTML. This goes in the head tag:
@@ -102,6 +104,9 @@ Here are the steps to get started:
 	`<link rel=“stylesheet” href=“style.css” >`
 
 #### Basic layout for a CSS file
+
+- CSS rules
+- Select 
 
 ```
 h1 {
