@@ -116,7 +116,7 @@ Here are the steps to get started:
 
 ### id versus class
 #### id:
-- Are selectors.
+- A selector.
 - They are used if you want a single, unique element.
 
 HTML:
@@ -136,7 +136,7 @@ CSS: hash/pound sign designate an id
 
 
 #### class:
-- Are selectors.
+- A selector.
 - Select an element with a specific class attribute.
 
 HTML:
@@ -164,6 +164,10 @@ CSS: a period designates a class
 	![What can JS do?](assets/js.png)
 - The Chrome Javascript Console: how can we use this and why?
 - **Exercise**: alert('hi');
+- Does someone recall which term we use to refer to all the objects on the page?
+- _querySelectorAll()_: a method that returns all elements in the document that matches a specified CSS selector(s).
+- A JavaScript _function_ is a block of code designed to perform a particular task.
+- **Exercise**: with a partner take a look at this [Codepen](https://codepen.io/nevan/pen/shtLA) and try to read through the code as best as you can. Explain what you think is happening to one another(don't worry about syntax right now). Now try and debug together ("Slow" should turn light yellow, "Go" should turn light green).
 
 
 ### Lab:
