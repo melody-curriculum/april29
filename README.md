@@ -1,9 +1,5 @@
 # ChickTech- April 29, 2017
 
-## Let's get to know one another:
-- What's your name?
-- What are two things we wouldn't know about you at first glance?
-
 ## Things to keep in mind:
 - We are here to help you and we are excited to be here.
 - With that in mind, ask as many questions as you can.
