@@ -58,7 +58,7 @@ Here are the steps to get started:
 
 ## Let's Dive Deeper
 ### HTML:
-#### Tags < >
+#### Tags
 - What is the difference between text and a tag?
 - Allow you to set up structure of the page.
 - Tell the browser how to format content.
